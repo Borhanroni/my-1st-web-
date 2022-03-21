@@ -47,3 +47,18 @@ p{
     
 }
 body{margin: 0px;}
+.baner2{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.second{
+
+        width: 50%;
+        padding-right: 5px;
+    padding-left: 5px;
+    
+}
+.good_food{
+    margin-top: 100px;
+}
