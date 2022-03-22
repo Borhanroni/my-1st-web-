@@ -1,4 +1,7 @@
-section{
+.flexiable-continer{
+    display: flex;
+}
+.experience-item{
     display: flex;
 }
 .link_button2{
